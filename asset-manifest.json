@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/First/static/css/main.5d4d429b.chunk.css",
+    "main.js": "/First/static/js/main.e70bd2da.chunk.js",
+    "main.js.map": "/First/static/js/main.e70bd2da.chunk.js.map",
+    "runtime-main.js": "/First/static/js/runtime-main.b947f5a9.js",
+    "runtime-main.js.map": "/First/static/js/runtime-main.b947f5a9.js.map",
+    "static/js/2.745c57dd.chunk.js": "/First/static/js/2.745c57dd.chunk.js",
+    "static/js/2.745c57dd.chunk.js.map": "/First/static/js/2.745c57dd.chunk.js.map",
+    "index.html": "/First/index.html",
+    "static/css/main.5d4d429b.chunk.css.map": "/First/static/css/main.5d4d429b.chunk.css.map",
+    "static/js/2.745c57dd.chunk.js.LICENSE.txt": "/First/static/js/2.745c57dd.chunk.js.LICENSE.txt",
+    "static/media/1.6faa7277.webp": "/First/static/media/1.6faa7277.webp",
+    "static/media/3.8dc1ec8f.webp": "/First/static/media/3.8dc1ec8f.webp",
+    "static/media/3.d34656ca.jpg": "/First/static/media/3.d34656ca.jpg",
+    "static/media/Celeb1.8de54ae4.jpg": "/First/static/media/Celeb1.8de54ae4.jpg",
+    "static/media/celeb2.b21f3363.jpg": "/First/static/media/celeb2.b21f3363.jpg",
+    "static/media/celeb3.999c60f2.jpg": "/First/static/media/celeb3.999c60f2.jpg",
+    "static/media/gift.313d07da.png": "/First/static/media/gift.313d07da.png",
+    "static/media/images.77e8f59f.webp": "/First/static/media/images.77e8f59f.webp",
+    "static/media/surprise.d4ece80f.png": "/First/static/media/surprise.d4ece80f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b947f5a9.js",
+    "static/js/2.745c57dd.chunk.js",
+    "static/css/main.5d4d429b.chunk.css",
+    "static/js/main.e70bd2da.chunk.js"
+  ]
+}
