@@ -1,0 +1,242 @@
+.heart{
+    position: absolute;
+    bottom: 0;
+    color: rgb(252, 33, 33, 0.9);
+    animation-name: zigzag;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes zigzag{
+    0%{
+      bottom: 0;
+      left: 0vw;
+    }
+    20%{
+      left:10vw;
+      bottom: 20%;
+    }
+    40%{
+      left: 0vw;
+      bottom: 40%;
+    }
+    60%{
+      left: 10vw;
+      bottom: 60%;
+    }
+    80%{
+      left: 0vw;
+      bottom: 80%;
+    }
+    100%{
+      left: 10vw;
+      bottom: 100%;
+    }
+    /* 60%{
+      left: 0vw;
+      bottom: 60vw;
+    }
+    70%{
+      left: 10vw;
+      bottom: 70vw;
+    }
+    80%{
+      left: 0vw;
+      bottom: 80vw;
+    }
+    90%{
+      left: 10vw;
+      bottom: 90vw;
+    }
+    100%{
+      left: 0vw;
+      bottom: 100vw;
+    } */
+  }
+  .heart2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: rgb(252, 33, 33,0.9);
+    animation-name: zigzag2;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes zigzag2{
+    0%{
+      bottom: 0;
+      right: 0vw;
+    }
+    20%{
+      right:10vw;
+      bottom: 20%;
+    }
+    40%{
+      right: 0vw;
+      bottom: 40%;
+    }
+    60%{
+      right: 10vw;
+      bottom: 60%;
+    }
+    80%{
+      right: 0vw;
+      bottom: 80%;
+    }
+    100%{
+      right: 10vw;
+      bottom: 100%;
+    }
+    /* 60%{
+      right: 0vw;
+      bottom: 60vw;
+    }
+    70%{60%{
+      right: 10vw;
+      bottom: 60vw;
+    }
+    70%{
+      right: 0vw;
+      bottom: 70vw;
+    }
+    80%{
+      right: 10vw;
+      bottom: 80vw;
+    }
+    90%{
+      right: 0vw;
+      bottom: 90vw;
+    }
+    100%{
+      right: 10vw;
+      bottom: 100vw;
+    }
+      right: 10vw;
+      bottom: 70vw;
+    }
+    80%{
+      right: 0vw;
+      bottom: 80vw;
+    }
+    90%{
+      right: 10vw;
+      bottom: 90vw;
+    }
+    100%{
+      right: 0vw;
+      bottom: 100vw;
+    } */
+  }
+  .heart3{
+    position: absolute;
+    bottom: 0;
+    left: 10vw;
+    color: rgb(252, 33, 33, 0.9);
+    animation-name: zigzag3;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes zigzag3{
+    0%{
+      bottom: 0;
+      left: 10vw;
+    }
+    20%{
+      left:0vw;
+      bottom: 20%;
+    }
+    40%{
+      left: 10vw;
+      bottom: 40%;
+    }
+    60%{
+      left: 0vw;
+      bottom: 60%;
+    }
+    80%{
+      left: 10vw;
+      bottom: 80%;
+    }
+    100%{
+      left: 0vw;
+      bottom: 100%;
+    }
+    /* 60%{
+      left: 10vw;
+      bottom: 60vw;
+    }
+    70%{
+      left: 0vw;
+      bottom: 70vw;
+    }
+    80%{
+      left: 10vw;
+      bottom: 80vw;
+    }
+    90%{
+      left: 0vw;
+      bottom: 90vw;
+    }
+    100%{
+      left: 10vw;
+      bottom: 100vw;
+    } */
+  }
+  .heart4{
+    position: absolute;
+    bottom: 0;
+    right: 15;
+    color: rgb(252, 33, 33,0.9);
+    animation-name: zigzag4;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes zigzag4{
+    0%{
+      bottom: 0;
+      right: 10vw;
+    }
+    20%{
+      right: 0vw;
+      bottom: 20%;
+    }
+    40%{
+      right: 10vw;
+      bottom: 40%;
+    }
+    60%{
+      right: 0vw;
+      bottom: 60%;
+    }
+    80%{
+      right: 10vw;
+      bottom: 80%;
+    }
+    100%{
+      right: 0vw;
+      bottom: 100%;
+    }
+    /* 60%{
+      right: 10vw;
+      bottom: 60vw;
+    }
+    70%{
+      right: 0vw;
+      bottom: 70vw;
+    }
+    80%{
+      right: 10vw;
+      bottom: 80vw;
+    }
+    90%{
+      right: 0vw;
+      bottom: 90vw;
+    }
+    100%{
+      right: 10vw;
+      bottom: 100vw;
+    } */
+  }

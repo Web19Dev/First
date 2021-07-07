@@ -1,0 +1,70 @@
+body{
+    background-image: linear-gradient(to right, rgb(98, 250, 118), rgb(93, 248, 93),
+     rgb(126, 243, 218));
+    font-family: 'Yellowtail', cursive;
+    margin: 0;
+}
+
+.wish{
+    font-size: 5vw;
+    text-align: center;
+} 
+.blessing{
+    font-size: 3vw;
+    text-align: center;
+}
+#gift{
+    width: 8vw;
+    height: 8vw;
+    position: relative;
+    left: 45.5%;
+}
+#gift:hover
+{
+    cursor: pointer;
+}
+#surprise{
+    width: 10vw;
+    height: 10vw;
+    border-radius: 50%;
+    position: relative;
+    left: 45%;
+    display: none;
+}
+.pic{
+    text-align: center;
+}
+.bpic{
+    width: 30vw;
+    height: 20vw;
+}
+#SlideBox{
+    width: 70vw;
+    height: 50vw;
+}
+.slideImage{
+    position: absolute;
+    width: 70vw;
+    height: 50vw;
+    left: 15vw;
+}
+#back{
+    position: relative;
+    left: 10vw;
+    top: 24vw;
+}
+#forward{
+    position: relative;
+    left: 80vw;
+    top: 24vw;
+}
+#back:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+#forward:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
